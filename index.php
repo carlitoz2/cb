@@ -1,3 +1,3 @@
 <?php
 
-echo 'ok123';
+echo 'ok';
